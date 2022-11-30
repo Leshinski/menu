@@ -8,6 +8,7 @@ public class Main {
                 int num = scanner.nextInt();
                 if (num == 0) {
                     break;
+                    //wrtujwykwtsukw
                 }
                 if (num == 1) {
                     System.out.println(cube());
