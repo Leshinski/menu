@@ -41,6 +41,7 @@ public class Main {
         Scanner scannerCube = new Scanner(System.in);
         int a = scannerCube.nextInt();
         return a * a * a;
+        //rtuwyistykistlkstul
     }
 
     //formula
