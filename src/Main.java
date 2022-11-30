@@ -17,6 +17,7 @@ public class Main {
                     formula();
                 }
                 continue;
+                //aqeruqrtujafgjnafgjmaf
             }
             String line = scanner.nextLine();
             if (line.equals("Stop")) {
